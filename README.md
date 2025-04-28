@@ -1,8 +1,7 @@
 # Desafio Técnico - Vaga Backend - Nubank #
 
 Construa uma API REST para gerenciamento de clientes e seus contatos. Cada cliente pode ter um ou mais contatos associados.
-# Requisitos Técnicos #
-# Sua aplicação deve conter: #
+# Requisitos Técnicos, sua aplicação deve conter: # 
 
 • Cadastro de Cliente (POST /clientes)
 
@@ -18,8 +17,7 @@ Construa uma API REST para gerenciamento de clientes e seus contatos. Cada clien
 
 • Entidades Cliente e Contato com relacionamento OneToMany / ManyToOne
 
-# Requisitos de Código #
-# Esperamos que seu código siga boas práticas de desenvolvimento, incluindo: # 
+# Requisitos de Código, esperamos que seu código siga boas práticas de desenvolvimento, incluindo: # 
 
 • Separação de responsabilidades (camadas: controller, service, repository)
 
