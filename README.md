@@ -1,6 +1,5 @@
-Desafio Técnico - Vaga Backend - Nubank
+# Desafio Técnico - Vaga Backend - Nubank #
 
-# Desafio #
 Construa uma API REST para gerenciamento de clientes e seus contatos. Cada cliente pode
 ter um ou mais contatos associados.
 Requisitos Técnicos
